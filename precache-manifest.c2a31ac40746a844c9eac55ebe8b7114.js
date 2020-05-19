@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d5c476eb1377fdb8f5aa4473f66d78a",
+    "revision": "8bfb9738b77c0a15ed95f1730ec943a0",
     "url": "/our-seeds.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/our-seeds.github.io/static/css/2.80aea728.chunk.css"
   },
   {
-    "revision": "06f95d895a536c163d28",
+    "revision": "ade6665124f7ff59df6d",
     "url": "/our-seeds.github.io/static/css/main.b05a15af.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/our-seeds.github.io/static/js/2.31d58f43.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "06f95d895a536c163d28",
-    "url": "/our-seeds.github.io/static/js/main.8ea6ee92.chunk.js"
+    "revision": "ade6665124f7ff59df6d",
+    "url": "/our-seeds.github.io/static/js/main.9aa97346.chunk.js"
   },
   {
     "revision": "71e8b6563324d90b0e61",
